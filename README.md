@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Dilasha Upadhyay</h1>
 <h3 align="center">A third-year Computer Science student at Kathmandu University</h3>
 
+<img align="right" alt="coder" width="400" src="https://media.tenor.com/AlUkiGkR2j8AAAAM/new-game-ahagon-umiko-programming.gif"> 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dilashaupadhyay&label=Profile%20views&color=0e75b6&style=flat" alt="dilashaupadhyay" /> </p>
 
 - 🌱 I’m currently learning **Python**
