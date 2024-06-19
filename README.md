@@ -52,6 +52,6 @@
 </p>
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dilashaupadhyay&show_icons=true&locale=en&layout=compact&card_width=420" alt="dilashaupadhyay" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dilashaupadhyay&show_icons=true&locale=en&layout=compact&card_width=400" alt="dilashaupadhyay" />
   <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=dilashaupadhyay&theme=radical" alt="dilashaupadhyay" />
 </div>
