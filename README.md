@@ -1,7 +1,7 @@
-<h1 align="center"> I am Dilasha Upadhyay</h1>
+<h1 align="center"> I am Dilasha Upadhyay </h1>
 <h3 align="center">A Computer Science student at Kathmandu University</h3>
 
-<img align="right" alt="coder" width="400" src="[https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif](https://tenor.com/view/coding-girl-gif-2332171326726785246)"> 
+<img align="right" alt="coding girl" width="400" src="https://media.tenor.com/IF2JdxzmyN4AAAAj/coding-girl.gif">
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=dilashaupadhyay&label=Profile%20views&color=0e75b6&style=flat" alt="dilashaupadhyay" /> 
