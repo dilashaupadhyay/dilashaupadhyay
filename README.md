@@ -1,13 +1,13 @@
 <h1 align="center"> I am Dilasha Upadhyay</h1>
 <h3 align="center">A Computer Science student at Kathmandu University</h3>
 
-<img align="right" alt="coder" width="400" src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif"> 
+<img align="right" alt="coder" width="400" src="[https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif](https://tenor.com/view/coding-girl-gif-2332171326726785246)"> 
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=dilashaupadhyay&label=Profile%20views&color=0e75b6&style=flat" alt="dilashaupadhyay" /> 
 </p>
 
-- 👨‍💻: I’m currently learning **Python** and **React**
+- 👨‍💻: I’m currently learning **Python** and **Selenium**
 - 📝: I write articles on [Medium](https://medium.com/@dilashawrites)
 
 <h3 align="left">Connect with me:</h3>
